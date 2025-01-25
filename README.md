@@ -11,12 +11,11 @@ This mini-project highlights my ability to independently process raw datasets, a
 ---
 
 ## Dataset
-**Source**: [Kaggle Dataset](#)  
-*(Include the link here if permissible. Otherwise, briefly describe how to access the dataset.)*
+**Source**: [Kaggle Dataset](https://www.kaggle.com/datasets/waqi786/usa-rainfall-prediction-dataset-2024-2025?select=usa_rain_prediction_dataset_2024_2025.csv)  
 
 ### Key Features
-- Dataset contains [briefly describe features, e.g., weather conditions, temperature, etc.].
-- Target variable: `Rainfall` (e.g., binary classification or regression).
+- Dataset contains Date, Location, Temperature, Humidity, Cloud Cover, Rain Tomorrow, Precipitation, Wind Speed
+- Target variable: `Rainfall Tomorrow` 
 
 ---
 
@@ -34,15 +33,15 @@ This mini-project highlights my ability to independently process raw datasets, a
 
 4. **Model Training**:
    - Split data into training and testing sets.
-   - Trained and compared models (e.g., Logistic Regression, Decision Trees).
+   - Trained Linear Regression model using ``Scikit-learn``
 
 5. **Evaluation**:
-   - Evaluated models using metrics such as accuracy, precision, recall, and F1 score.
+   - Evaluated model using MSE
 
 ---
 
 ## Results
-- Current Model: [e.g., Decision Tree Classifier]
+- Current Model: Linear Regression
 - Key Metric: MSE of 0.25
 
 ---
