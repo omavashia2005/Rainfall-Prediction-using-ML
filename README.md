@@ -1,7 +1,7 @@
 # Rainfall Prediction Using Machine Learning
 
 ## Overview
-This project is a machine learning pipeline built from scratch to predict rainfall. Using a Kaggle dataset, I performed:
+This mini-project is a simple machine learning model to predict rainfall. Using a Kaggle dataset, I performed:
 - **Data Cleaning**: Addressed missing values and ensured data consistency.
 - **Feature Engineering**: Created and selected meaningful features to improve model performance.
 - **Model Training and Evaluation**: Leveraged scikit-learn to train and test multiple machine learning models.
