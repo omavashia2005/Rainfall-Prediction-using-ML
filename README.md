@@ -21,28 +21,31 @@ This mini-project highlights my ability to independently process raw datasets, a
 
 ## Workflow
 1. **Load Dataset**:
-   - Imported data using `pandas` and performed an exploratory data analysis (EDA).
+   - Imported data using `pandas` and performed an exploratory data analysis (EDA)
 
 2. **Data Preprocessing**:
-   - Handled missing values.
-   - Encoded categorical variables.
-   - Standardized numerical features.
+   - Handled missing values
+   - Encoded categorical variables
+   - Standardized numerical features
 
 3. **Feature Engineering**:
-   - Created new features to capture patterns in the data.
+   - Created new features to capture patterns in the data
 
 4. **Model Training**:
-   - Split data into training and testing sets.
-   - Trained Linear Regression model using ``Scikit-learn``
+   - Split data into training and testing sets
+   - Trained Logistic Regression and Decision Classification models using ``Scikit-learn``
+   - Utilized class balancing to improve F1-scores
 
 5. **Evaluation**:
-   - Evaluated model using MSE
+   - Evaluated model using F1-scores
 
 ---
 
 ## Results
-- Current Model: Linear Regression
-- Key Metric: MSE of 0.25
+- Current Model: Logistic Regression
+- Key Metric: F1 of 0.57
+- Other model: Decision Tree Classifer
+- Key Metric: F1-score of 0.44
 
 ---
 
@@ -57,7 +60,7 @@ This mini-project highlights my ability to independently process raw datasets, a
 ---
 
 ## Learnings
-- Gained hands-on experience in feature engineering, data preprocessing, and understood linear regression.
+- Gained hands-on experience in feature engineering, data preprocessing, and understood logistic regression and decision tree classification.
 - Strengthened understanding of machine learning workflows.
 - Explored practical challenges in handling real-world datasets.
 
