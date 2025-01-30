@@ -43,9 +43,7 @@ This mini-project highlights my ability to independently process raw datasets, a
 
 ## Results
 - Current Model: Logistic Regression
-- Key Metric: F1 of 0.57
-- Other model: Decision Tree Classifer
-- Key Metric: F1-score of 0.44
+- Key Metric: F1 of 0.89
 
 ---
 
