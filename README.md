@@ -33,17 +33,17 @@ This mini-project highlights my ability to independently process raw datasets, a
 
 4. **Model Training**:
    - Split data into training and testing sets
-   - Trained Logistic Regression and Decision Classification models using ``Scikit-learn``
+   - Trained Logistic Regression (normal and SGD-based) and Decision Classification models using ``Scikit-learn``
    - Utilized class balancing to improve F1-scores
 
 5. **Evaluation**:
-   - Evaluated model using F1-scores
+   - Evaluated models using F1-score
 
 ---
 
 ## Results
 - Current Model: Logistic Regression
-- Key Metric: F1 of 0.89
+- Key Metric: F1 of 0.91
 
 ---
 
