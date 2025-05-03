@@ -10,6 +10,18 @@ This mini-project highlights my ability to independently process raw datasets, a
 
 ---
 
+
+## Tech Stack
+<p float="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60" alt="Python" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg" height="60" alt="pandas" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" height="60" alt="NumPy" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="60" alt="scikit-learn" />
+</p>
+
+
+---
+
 ## Dataset
 **Source**: [Kaggle Dataset](https://www.kaggle.com/datasets/waqi786/usa-rainfall-prediction-dataset-2024-2025?select=usa_rain_prediction_dataset_2024_2025.csv)  
 
@@ -44,16 +56,6 @@ This mini-project highlights my ability to independently process raw datasets, a
 ## Results
 - Current Model: Logistic Regression
 - Key Metric: F1 of 0.91
-
----
-
-## Installation and Usage
-### Requirements
-- Python 3.x
-- Libraries:
-  - pandas
-  - numpy
-  - scikit-learn
 
 ---
 
